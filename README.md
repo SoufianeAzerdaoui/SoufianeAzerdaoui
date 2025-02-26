@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufiane-azerdaoui/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soufiane.azerdaoui@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoufianeAzerdaoui)
 
 ## 🚀 About Me
 
@@ -14,18 +13,6 @@ Systems Engineering student specializing in Artificial Intelligence (IS2IA) with
 - **Bachelor's Degree in Infrastructure, Big Data Processing, and Analysis** | Higher School of Technology - Fkih Ben Salah | *Sept 2023 - July 2024*
 - **Specialized Technician Diploma - Full Stack Development** | OFPPT FES | *Sept 2021 - July 2023*
 - **Baccalaureate in Physical Sciences** | Ibno al atir High School - Fes | *July 2020*
-
-## 💼 Professional Experience
-
-### Decision-Making Solution for Smartphone Sales | *April - June 2024*
-- Designed and implemented a star schema data warehouse using SQL Server
-- Built ETL pipelines with Python for data extraction, cleaning, and transformation
-- Created interactive Power BI dashboards with DAX for advanced analytics
-
-### EPG School Registration System | *March - April 2023*
-- Developed full-stack registration system using PHP and MySQL
-- Created UML diagrams for optimal data organization
-- Implemented with ReactJS frontend and PHP backend
 
 ## 🛠️ Technical Skills
 
@@ -76,18 +63,6 @@ Systems Engineering student specializing in Artificial Intelligence (IS2IA) with
 - French (B1)
 - English (Intermediate)
 - German (B1+)
-
-## 🌟 Featured Projects
-
-### Decision Support System for Banks
-- Leveraged Python, Machine Learning, and Flask
-- Built predictive models for credit approval
-- Implemented data analysis pipelines to identify trends
-
-### E-Commerce User Tracking System
-- Developed with ReactJS and TailwindCSS frontend, Flask backend
-- Integrated Spark and Kafka for optimized data processing
-- Designed click-tracking functionality for monitoring user activity
 
 ---
 
