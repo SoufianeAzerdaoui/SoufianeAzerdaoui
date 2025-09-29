@@ -63,7 +63,7 @@ Systems Engineering student specializing in Artificial Intelligence (IS2IA) with
 
 ## 🌐 Languages
 - Arabic (Native)
-- French (B1)
+- French (B2)
 - English (Intermediate)
 - German (B1+)
 
