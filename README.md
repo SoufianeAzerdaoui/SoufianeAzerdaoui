@@ -79,21 +79,5 @@
 
 ---
 
-## 📑 Certifications
-
-- **Python Data Structures** – Coursera  
-- **Big Data with Spark & Hadoop** – Coursera  
-- **Data Cleaning & Preprocessing with Pandas** – 365 Data Science  
-
----
-
-## 🌐 Languages
-
-- Arabic — Native  
-- French — B2  
-- English — Intermediate  
-- German — B1+
-
----
 
 💬 *Always learning. Always building.*
