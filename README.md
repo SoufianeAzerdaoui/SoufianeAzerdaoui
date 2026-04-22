@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 🎓 Systems Engineering student specialized in **Artificial Intelligence (IS2IA)**  
-💻 Strong background in **Software Engineering, Data Science, and DevOps**  
+💻 Strong background in **Software Engineering, Data Science**  
 🚀 Passionate about building scalable systems and intelligent solutions.
 
 ---
