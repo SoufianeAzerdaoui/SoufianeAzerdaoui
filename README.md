@@ -28,9 +28,6 @@
 - **Specialized Technician Diploma – Full Stack Development**  
   *OFPPT Fes* | **2021 – 2023**
 
-- **Baccalaureate in Physical Sciences**  
-  *Ibno Al Atir High School – Fes* | **2020**
-
 ---
 
 ## 🛠️ Technical Skills
