@@ -1,6 +1,6 @@
 # Soufiane Azerdaoui
 
-**AI & Data Engineer · Full-Stack Developer**
+**AI & Data Engineer**
 
 <div align="center">
 
