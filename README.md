@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufiane-azerdaoui/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soufiane.azerdaoui@gmail.com)
-
+[![Portfolio](https://soufianeazerdaoui.me/)
 </div>
 
 ---
@@ -15,11 +15,6 @@
 
 Master's student in Systems Engineering, specialized in Artificial Intelligence (IS2IA). I combine a full-stack development background with big data and machine learning to build scalable systems and applied AI solutions.
 
-**Focus areas**
-- Machine learning and data science pipelines
-- Big data processing (Spark, Hadoop)
-- Scalable backend and full-stack applications
-- Containerized deployment (Docker, Kubernetes)
 
 ---
 
